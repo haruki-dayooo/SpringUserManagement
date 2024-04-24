@@ -1,2 +1,6 @@
-package com.ducluong.usermanagement.user;public enum Role {
+package com.ducluong.usermanagement.user;
+
+public enum Role {
+    US,
+    AD
 }
